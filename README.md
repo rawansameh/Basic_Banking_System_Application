@@ -34,5 +34,5 @@ A simple mobile app which has the following specs:
 <img width="231" alt="Screen Shot 2023-06-19 at 5 05 54 AM" src="https://github.com/rawansameh/Basic_Banking_System_Application/assets/63364836/431de990-b411-4cae-82d0-eef7228bf6e3">
 
 
- ## Demo video URL: 
+ ## Demo video URL: https://youtu.be/2Y7ln44lZKM
  
