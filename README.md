@@ -20,5 +20,5 @@ A simple mobile app which has the following specs:
  
 ## Screenshots of the Application:
  
- ##Demo video URL: 
+ ## Demo video URL: 
  
