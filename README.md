@@ -2,7 +2,7 @@
 
 This project is done as part of the Graduate Internship Rotaional Program (GRIP) in The Sparks Foundation.
 
-##Project Description
+## Project Description
 A simple mobile app which has the following specs:
   1- Data stored in mobile (sqflite) database for upto 10 users. User table contains 
   name, email, phone number and current balance. Transfers table records
