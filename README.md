@@ -18,7 +18,7 @@ A simple mobile app which has the following specs:
   4- The application was created using Flutter based on BLoC state management
   
  
- Screenshots of the Application:
+## Screenshots of the Application:
  
- Demo video URL: 
+ ##Demo video URL: 
  
